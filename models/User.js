@@ -14,4 +14,4 @@ const userSchema = new Schema({
   print: Boolean
 });
 
-mongoose.model("users", userSchema);
+mongoose.model("User", userSchema);
