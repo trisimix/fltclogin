@@ -1,0 +1,26 @@
+{
+  "name": "fltc-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2",
+    "react": "^16.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trisimix/fltclogin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trisimix/fltclogin/issues"
+  },
+  "homepage": "https://github.com/trisimix/fltclogin#readme"
+}
